@@ -16,6 +16,8 @@ A simple, production-ready Streamlit app to extract and display the thumbnail im
 ---
 
 ## Demo
+**Live App:** [https://yukti-says-youtube-img-app-app-jfwqgb.streamlit.app/](https://yukti-says-youtube-img-app-app-jfwqgb.streamlit.app/)
+
 ![Demo Screenshot](image.png)
 
 ---
